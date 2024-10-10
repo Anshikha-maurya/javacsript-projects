@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(222, 232, 241);
+    text-align: center;
+}
+div{
+    
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 18rem;
+    width: 18rem;
+    margin: auto;
+
+}
+
+h1{
+   
+    margin-top: 8rem;
+}
+button{
+   margin-bottom: 2rem;
+   border-radius: 5px;
+   
+   width: 4rem;
+}
+h2{
+    align-items: center;
+    margin-top: 6rem;
+}
